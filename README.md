@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/585y6ibye0soyk1n?svg=true)](https://ci.appveyor.com/project/shayu78/ra-components-class)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
