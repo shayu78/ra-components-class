@@ -6,7 +6,7 @@ export default class ShopItemClass extends React.Component {
   render() {
     const { item } = this.props;
     return (
-      <div className="main-content" >
+      <div className="main-content">
         <h2>{item.brand}</h2>
         <h1>{item.title}</h1>
         <h3>{item.description}</h3>
